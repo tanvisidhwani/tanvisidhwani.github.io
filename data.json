@@ -88,6 +88,14 @@
         "image": "aligntrackpublic/aligntrack.jpeg.jpeg",
         "languages": [],
         "tags": []
+      },
+      {
+        "name": "GenoBank",
+        "description": "GenoBank: 1000+ genomes, 55M+ variants, GRCh38 annotations, clinical relevance, global allele frequencies.",
+        "link": "https://github.com/tanvisidhwani/GenoBank",
+        "image": "genobankphoto.jpeg",
+        "languages": [],
+        "tags": []
       }
       
     ]
