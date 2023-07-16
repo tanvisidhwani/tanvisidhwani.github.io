@@ -1,11 +1,12 @@
 ## Personal Portfolio
 
-### [Live Site](https://shivam-bhasin.netlify.app)
+### [Live Site](https://tanvisidhwani.github.io/)
 
-![Portfolio Website](public/screenshot.png)
+![Portfolio Website](public/readme.jpeg)
 
-This is a sample of my personal portfolio website.  
-It's built up using Next.js, ReactJs, and Tailwind CSS.
+This is Tanvi Sidhwani's personal portfolio website.  
+I built it using Next.js, ReactJs, and Tailwind CSS.
+
 
 #### Setup:
 - run ```npm i && npm run dev```
