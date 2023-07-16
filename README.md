@@ -2,7 +2,7 @@
 
 ### [Live Site](https://tanvisidhwani.github.io/)
 
-![Portfolio Website](public/readme.jpeg)
+![Portfolio Website](public/projects/readme.jpeg)
 
 This is Tanvi Sidhwani's personal portfolio website.  
 I built it using Next.js, ReactJs, and Tailwind CSS.
