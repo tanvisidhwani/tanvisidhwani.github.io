@@ -1,0 +1,97 @@
+{
+  "header": {
+    "userTag": "@Tanvisidhwani",
+    "name": "Tanvi Sidhwani",
+    "socials": {
+      "github": "https://github.com/tanvisidhwani",
+      "linkedin": "https://www.linkedin.com/in/tanvi-sidhwani-0084b0212",
+      "twitter": "https://twitter.com/Tanvisidhwani",
+      "medium": "https://medium.com/@tanvisidhwani916",
+      "mail": "mailto://tanvisidhwani916@gmail.com"
+    }
+  },
+  "intro": {
+    "designations": [
+      "Student",
+      "Java Developer",
+      "Freelancer",
+      "Biotechnologist",
+      "GDSC Core Team Member",
+      "Growth Enthusiast",
+      "UI/UX Developer",
+      "Biology Teacher"
+    ],
+
+    "text": "Unleash inspiration and excellence on my portfolio website. Experience a captivating journey like no other.",
+    "resumeLink": "https://drive.google.com/drive/folders/1gs-a8q4amT81VsSPKSg8eeZbtpvdMtVz"
+  },
+  "about": {
+    "image": "profileImage.jpeg",
+    "info": "A dynamic 3rd-year engineering student, part-time biology teacher, and enthusiastic advocate for merging the realms of biology and computer science. As a passionate educator, I've been empowering NEET aspirants by teaching biology for the past two years, witnessing their remarkable success in scoring high marks in the medical entrance exam. While my commitment to teaching is unwavering, I also excel as a full-time engineering student, maintaining an impressive GPA of 9.4. As a core team member of Google Developer Student Clubs, I immerse myself in Java programming, constantly honing my skills and exploring the fascinating world of UI and UX design. In my leisure time, I thrive on learning and exploring diverse subjects, always seeking to broaden my knowledge horizons. Whether it's delving into new workout routines or immersing myself in captivating books, I'm fueled by a never-ending curiosity. Allow me to share a few fun facts about myself: I possess a lifelong creative streak that has permeated my being since childhood. I am driven by a deep-rooted desire to revolutionize the field of biology by seamlessly integrating it with computer science. With a keen focus on the applications of technology in the medical field, I'm determined to contribute to eradicating poverty and creating meaningful change through social work and involvement in NGOs. Above all, teaching holds a special place in my heart, as it fuels my passion for empowering others with knowledge. Join me on this extraordinary journey as we explore the incredible intersection of biology and computer science, while striving to make a lasting impact in the world. Together, let's forge a brighter future, where technology and compassion unite to create transformative solutions."
+  },
+  "education": [
+    {
+      "course": "Bachelors of Technology",
+      "institution": "Manav Rachna International Institute Of Research And Studies",
+      "duration": "2021 ~ 2025",
+      "gpa": "9.4  CGPA",
+      "icon": "university"
+    },
+    {
+      "course": "CBSE ~ class 10th and 12th",
+      "institution": "D.A.V Public School",
+      "duration": "Until 2021",
+      "gpa": "90 %",
+      "icon": "school"
+    }
+  ],
+  "jobs": [
+    {
+      "position": "Database Administrator",
+      "institution": "ForestLakeTech",
+      "duration": "February 2022 - Present",
+      "icon": "remote"
+    },{
+      "position": "Biology Teacher",
+      "institution": "Study Hub",
+      "duration": "Aug 2021 - Present",
+      "icon": "remote"
+    },
+    {
+      "position": "GDSC Core Team Member",
+      "institution": "Google Developer Student Club",
+      "duration": "Aug 2022 - Present",
+      "icon": "remote"
+    },
+    {
+      "position": "Founder",
+      "institution": "Aligntrack",
+      "duration": "Mar 2023 ~ Present",
+      "icon": "remote"
+    }
+    
+  ],
+  "projects": {
+    "myProjects": [
+      {
+        "name": "IntelliBot",
+        "description": "Your Intelligent Conversation Partner.",
+        "link": "https://github.com/tanvisidhwani/ChatBot",
+        "image": "chatbot.jpeg",
+        "languages": [],
+        "tags": []
+      },
+      {
+        "name": "Aligntrack",
+        "description": "Waste-conscious app connecting users with online dental consultations.",
+        "link": [],
+        "image": "aligntrackpublic/aligntrack.jpeg.jpeg",
+        "languages": [],
+        "tags": []
+      }
+      
+    ]
+    
+    
+  }
+}
