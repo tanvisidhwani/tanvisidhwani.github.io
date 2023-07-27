@@ -6,13 +6,13 @@ function App({ Component, pageProps }) {
     <>
       <NextSeo
         title="Tanvi Sidhwani's Portfolio"
-        description="The personal portfolio website for Tanvi Sidhwani, full stack web and mobile developer, but most of all an avid learner."
+        description="The personal portfolio website for Tanvi Sidhwani, Java Developer and Biology teacher, but most of all an avid learner."
         openGraph={{
           type: "website",
           locale: "en_GB",
           url: "",
           description:
-            "The personal portfolio website for Tanvi Sidhwani, full stack web and mobile developer, but most of all an avid learner.",
+            "The personal portfolio website for Tanvi Sidhwani, Java Developer and Biology teacher, but most of all an avid learner.",
           site_name: "Tanvi Sidhwani",
         }}
       />
